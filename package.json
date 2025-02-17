@@ -1,0 +1,19 @@
+{
+  "name": "ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bunsalcoder/ajax.git"
+  },
+  "author": "bunsal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bunsalcoder/ajax/issues"
+  },
+  "homepage": "https://github.com/bunsalcoder/ajax#readme"
+}
