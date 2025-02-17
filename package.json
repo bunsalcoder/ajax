@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bunsalcoder/ajax/issues"
   },
-  "homepage": "https://github.com/bunsalcoder/ajax#readme"
+  "homepage": "https://github.com/bunsalcoder/ajax#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14"
+  }
 }
